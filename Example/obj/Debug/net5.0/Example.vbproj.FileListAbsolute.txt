@@ -1,0 +1,16 @@
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.vbproj.AssemblyReference.cache
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.AssemblyInfoInputs.cache
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.AssemblyInfo.vb
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.vbproj.CoreCompileInputs.cache
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.exe
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.deps.json
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.runtimeconfig.json
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.runtimeconfig.dev.json
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.dll
+C:\Revature\student-code\Example\bin\Debug\net5.0\ref\Example.dll
+C:\Revature\student-code\Example\bin\Debug\net5.0\Example.pdb
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.dll
+C:\Revature\student-code\Example\obj\Debug\net5.0\ref\Example.dll
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.pdb
+C:\Revature\student-code\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache
